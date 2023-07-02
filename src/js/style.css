@@ -19,3 +19,43 @@ CSS
         transform: rotate(360deg);
     }
     }
+
+    .loader {
+        display: none;
+      }
+      
+     
+      .error {
+        display: none;
+      }
+      
+    
+      .cat-info img {
+        max-width: 100%;
+        height: auto;
+        margin-top: 20px;
+      }
+      
+    
+      .breed-select {
+        width: 200px;
+        padding: 8px;
+        font-size: 16px;
+      }
+      
+    
+      .cat-container {
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+      }
+      
+    
+      .cat-description {
+        margin-top: 10px;
+      }
+      
